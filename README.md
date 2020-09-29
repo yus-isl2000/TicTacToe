@@ -9,7 +9,7 @@ Ensure the following:
 - You have Flutter and Dart configured and working correctly  
 - A working iOS (Mac OS only) or Andriod emulater/device connected  
 - Click the following link to see how to configure Flutter correctly on your device  
- - [Installing Flutter](https://flutter.dev/docs/get-started/install).
+ - [Installing Flutter](https://flutter.dev/docs/get-started/install)
 
 After all of the above are satisfied:
 1. Clone this repository
@@ -17,7 +17,7 @@ After all of the above are satisfied:
 3. Ensure your emulater or physical device is connected
 4. Run it!
 
-### Feature
+### Features
 
 This app is very simplistic and does not have many features. What it does have is:
 - Multiplayer mode where you can play with abuddy of yours
@@ -28,3 +28,4 @@ This app is very simplistic and does not have many features. What it does have i
 Like I said - very simple...
 
 ## Screenshots
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/HomeScreen.png "Philadelphia's Magic Gardens")
