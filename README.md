@@ -28,4 +28,4 @@ This app is very simplistic and does not have many features. What it does have i
 Like I said - very simple...
 
 ## Screenshots
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/HomeScreen.png "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](/images/HomeScreen.png "Philadelphia's Magic Gardens")
