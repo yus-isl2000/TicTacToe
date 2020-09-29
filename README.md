@@ -28,4 +28,8 @@ This app is very simplistic and does not have many features. What it does have i
 Like I said - very simple...
 
 ## Screenshots
-![Philadelphia's Magic Gardens. This place was so cool!](/images/HomeScreen.png "Philadelphia's Magic Gardens")
+Markdown | Less | Pretty
+--- | --- | ---
+![Home screen of the app](/images/HomeScreen.png "Home screen of the app")| ![Empty playing screen of the app](/images/EmptyGame.png "Empty playing screen of the app") 
+![Xs and Os](/images/PlayedGame.png "Xs and Os") | ![Winner](/images/Winner.png "Winner")
+
