@@ -1,4 +1,4 @@
-# tictactoe
+# Flutter TicTacToe App
 
 A new Flutter project.
 
